@@ -5,7 +5,7 @@
 
 ### 📝 Experience: 
 
--  Working at: [![Danfoss](https://img.shields.io/badge/-Danfoss-f02e65?style=plastic&logo=Danfoss&logoColor=white)](https://www.danfoss.com/en-in/)
+-  Working at: [![Softdel]([https://img.shields.io/badge/-Danfoss-f02e65?style=plastic&logo=Danfoss&logoColor=white)](https://www.danfoss.com/en-in/](https://www.bing.com/images/search?view=detailV2&ccid=4QUmUij6&id=AF2C5348CDC7FC2C6530AA2B9E0296CFEC5E08DD&thid=OIP.4QUmUij658J-jWqYGcXTRwHaEB&mediaurl=https%3A%2F%2Fitcampus.in%2Fwp-content%2Fuploads%2F2025%2F04%2FSoftDEL-Systems-1.jpg&exph=680&expw=1250&q=softdel+icon&FORM=IRPRST&ck=4013EF53F2296339131278A6EEAF80CB&selectedIndex=7&itb=0&cw=1661&ch=837&ajaxhist=0&ajaxserp=0))
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
